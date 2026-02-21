@@ -53,7 +53,7 @@ Follow-up Q&A Agent
 
 ai-health-fitness/
 │
-├── app.py
+├── ai_hf.py
 ├── .env
 ├── environment.yml
 ├── .gitignore
@@ -68,7 +68,7 @@ ai-health-fitness/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ai-health-fitness-groq.git
+git clone https://github.com/Chintan1545/ai-health-fitness.git
 cd ai-health-fitness-groq
 ````
 
