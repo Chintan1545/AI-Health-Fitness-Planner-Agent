@@ -159,12 +159,6 @@ Why this model?
 
 ---
 
-## 📸 Demo
-
-(Add screenshots here)
-
----
-
 ## 📈 Future Improvements
 
 * BMI & BMR auto-calculation
